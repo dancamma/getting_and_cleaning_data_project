@@ -7,6 +7,7 @@ Data are Summarized by the following steps:
 
 1. Loading require packages (dplyr, stringr)
 2. Read Raw Data
+
 ⋅⋅1. features
 ⋅⋅2. activities
 ⋅⋅3. training data
