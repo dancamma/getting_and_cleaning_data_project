@@ -35,7 +35,14 @@ Additional Variables are:
 * Subject Id: the id of the person who performed the measurement
 * activityName: the type of activity: can be one of: LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS
 
-List of Variables
+Datesets
+--------
+ 
+The first data set (tidy_data.txt) contains all the observations.
+
+The second dataset (tidy_data_means.txt) contains the average of each variable for each activity and each subject.
+
+List of Variables 
 -----------------
 
 The list of variables in the dataset is:
