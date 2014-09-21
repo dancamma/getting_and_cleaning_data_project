@@ -15,7 +15,7 @@ Data are Summarized by the following steps:
 8. Writing the second tidy data set
 
 
-Variable Description and Unit
+Variables Description and Unit
 -----------------------------
 To understand variables meaning by their name, use these guidelines:
 
