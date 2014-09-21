@@ -7,10 +7,10 @@ Data are Summarized by the following steps:
 
 1. Loading require packages (dplyr, stringr)
 2. Read Raw Data
-..1. features
-..2. activities
-..3. training data
-..4. test data
+⋅⋅1. features
+⋅⋅2. activities
+⋅⋅3. training data
+⋅⋅4. test data
 3. Merge training and test data
 4. Select only requires columns. This is performed by checking variables name that contains "-std(" or "-mean(" strings
 5. Give to activities descriptive names
