@@ -1,6 +1,23 @@
 Data Set Codebook
 =================
 
+Working with data
+-----------------
+Data are Summarized by the following steps:
+1. Loading require packages (dplyr, stringr)
+2. Read Raw Data
+..1 features
+..2 activities
+..3 training data
+..4 test data
+3. Merge training and test data
+4. Select only requires columns. This is performed by checking variables name that contains "-std(" or "-mean(" strings
+5. Give to activities descriptive names
+6. Write the first tidy data set
+7. Calculate the average of each variable for each activity and each subject.
+8. Writing the second tidy data set
+
+
 Variable Description and Unit
 -----------------------------
 To understand variables meaning by their name, use these guidelines:
