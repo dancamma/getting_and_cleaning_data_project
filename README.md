@@ -29,7 +29,7 @@ The script will execute the following steps:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The follwing files will be created:
-*tidy_data.txt: contains all the merged data from the analyisis
-*tidy_data_means.txt: contains the tidy data set with the average of each variable for each activity and each subject.
+* tidy_data.txt: contains all the merged data from the analyisis
+* tidy_data_means.txt: contains the tidy data set with the average of each variable for each activity and each subject.
 
 
